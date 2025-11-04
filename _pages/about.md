@@ -99,8 +99,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-<div class='paper-box-with-video'>
-  <div class='paper-box-image-video'>
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE MEMS 2026</div>
       <img src='images/publications/PMUTButton_MEMS_20251020.png' alt="sym" width="100%">
@@ -118,7 +118,7 @@ My research interest includes neural machine translation and computer vision. I 
 
   <p><i>The 39th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2026)</i></p>
 
-  <a href="./docs/PMUTButton_MEMS_20251020.pdf"> <strong>Abstract</strong> </a>
+  <a href="docs/PMUTButton_MEMS_20251020.pdf"> <strong>Abstract</strong> </a>
   <!-- <a href="https://objnerf.github.io" ><strong>Project</strong></a>,  -->
   <!-- <a href="https://arxiv.org/abs/2311.15291" ><strong>Paper</strong></a>,  -->
   <!-- <a href=""><strong>Code</strong></a>,  -->

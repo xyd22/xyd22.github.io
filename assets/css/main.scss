@@ -61,7 +61,7 @@
             object-fit: cover;
         }
     }
-    
+
     .paper-box-text{
         max-width: 100%;
         order: 1;
@@ -69,6 +69,83 @@
     
     @include breakpoint($medium) {
         .paper-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+        
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+
+    }
+
+
+}
+
+
+.paper-box-with-video {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+    
+
+    .paper-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+
+    .paper-box-image-video{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }; 
+        video {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+
+    .paper-box-image-video:hover img {
+        display: none;
+    } 
+    
+    .paper-box-image-video:not(:hover) video {
+        display: none;
+    }
+
+    .paper-box-image-video:hover video {
+        display: block;
+    }
+    
+    .paper-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+    
+    @include breakpoint($medium) {
+        .paper-box-image-video{
             justify-content: left;
             min-width: 200px;
             max-width: 40%;
@@ -106,4 +183,23 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+.education-box {
+    display: flex; 
+    align-items: center; 
+    // justify-content: space-between;
+    width: 100%;
+    margin-left: 50px;
+
+    img {
+        flex: 0 0 auto; 
+        margin-right: 100px; 
+        width: 120px; 
+    }; 
+
+    text {
+        flex: 1; 
+        text-align: right;
+    }
 }
