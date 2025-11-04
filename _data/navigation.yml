@@ -19,7 +19,7 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "CV"
-    url: /#cv/
+    url: /cv/
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
