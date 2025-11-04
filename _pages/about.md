@@ -135,7 +135,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
   <a href="files/PMUTButton_MEMS_20251020.pdf"  style="text-decoration: none;"><strong>AN ACOUSTIC TOUCH-MOTION BUTTON WITH HAPTIC FUNCTION VIA AN IN-SITU FABRICATED ELASTOMERIC LENS ATOP PMUTS</strong></a>
 
   <p> Declan Fitzgerald*, <strong>Yudong Xie*</strong>, Sean Isomatsu, Nikita Lukhanin, Zihan Wang, Liwei Lin </p>
-  <p> *<i>Co-first Authors</i> <p>
+  <p> *<i>Co-first Authors</i> </p>
 
   <p><i>The 39th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2026)</i></p>
 
@@ -169,7 +169,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
   <a href="https://dl.acm.org/doi/10.1145/3715071.3750405"  style="text-decoration: none;"><strong>EchoForce: Continuous Grip Force Estimation from Skin Deformation Using Active Acoustic Sensing on a Wristband</strong></a>
 
   <p>Kian Mahmoodi*, <strong>Yudong Xie*</strong>, Tan Gemicioglu*, Chi-Jung Lee, Jiwan Kim, Cheng Zhang</p>
-  <p> *<i>Co-first Authors</i> <p>
+  <p> *<i>Co-first Authors</i> </p>
   <p><i>In Proceedings of the 2025 ACM International Symposium on Wearable Computers (ISWC ’25)</i></p>
 
   <a href="https://dl.acm.org/doi/pdf/10.1145/3715071.3750405"><strong>Paper</strong></a>
