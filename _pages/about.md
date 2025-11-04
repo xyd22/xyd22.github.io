@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 💡 About Me
+
 Hello and welcome! I am Yudong Xie, an undergraduate student in <a href="https://www.ee.tsinghua.edu.cn/en/" style="text-decoration: none;">Department of Electronic Engineering</a>, <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;">Tsinghua University</a>.
 
 My research interests include **human-machine interface** and **wearable electronic devices**. Specifically, I am interested in designing integrated sensing systems for both biomedical applications and intellectual interactions with machines. By integrating advanced technologies, such as micro-electromechanical systems (MEMS), microfabrication, and machine learning, I aspire to explore new possibilities that can change human life, healthcare, and entertainment.
@@ -209,7 +211,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 <br>
 
 # 🎖 Honors and Awards
-- *2025.10* &nbsp; "December 9th" Scholarship (~$2800)
+- *2025.10* &nbsp; "December 9th" Scholarship <i>(Top 2% in Tsinghua)</i> (~$2800)
 - *2024.10* &nbsp; National Scholarship (~$1400)
 - *2024.10* &nbsp; Tsinghua Alumni Zhihua Integrated Circuit Scholarship (~$1400)
 - *2023.10* &nbsp; National Scholarship (~$1400)
