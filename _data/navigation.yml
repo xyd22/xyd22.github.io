@@ -20,7 +20,7 @@ main:
 
   - title: "CV"
     url: /cv/
-    target: "_self"
+    # target: "_self"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
