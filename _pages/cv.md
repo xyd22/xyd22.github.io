@@ -22,7 +22,7 @@ redirect_from:
 <div style="max-width: 1200px; margin: 0 auto; padding: 20px;">
     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
         <h1>Curriculum Vitae</h1>
-        <a href="docs/CV.pdf" download style="background: #00369f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">
+        <a href="files/CV.pdf" download style="background: #00369f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">
             📥 Download PDF
         </a>
     </div>

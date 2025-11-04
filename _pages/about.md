@@ -17,9 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello and welcome! I am Yudong Xie, an undergraduate student in <a href="https://www.ee.tsinghua.edu.cn/en/" style="text-decoration: none;">Department of Electronic Engineering</a>, <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;">Tsinghua University</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on **human-machine interface** and **wearable electronic devices**. Specifically, I am interested in designing integrated sensing systems for both biomedical applications and intellectual interactions with machines. By integrating advanced technologies, such as micro-electromechanical systems (MEMS), microfabrication, and machine learning, I aspire to explore new possibilities that can change human life, healthcare, and entertainment.
+
+Starting from my sophomore year, I worked with <a href="https://www.sic.tsinghua.edu.cn/en/info/1078/1373.htm" style="text-decoration: none;">Prof. Tianling Ren</a> at <a href="https://www.sic.tsinghua.edu.cn/en/" style="text-decoration: none;">School of Integrated Circuit</a>, <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;">Tsinghua University</a>. My research focused on developing novel modalities for silent speech interfaces (SSI).
+
+During Spring 2025, I have had an exchange semester at <a href="https://www.cornell.edu/" style="text-decoration: none;">Cornell University</a>, where I join <a href="https://www.scifilab.org/" style="text-decoration: none;">SciFi Lab</a> supervised by <a href="https://czhang.org/" style="text-decoration: none;">Prof. Cheng Zhang</a>. My research focused on predicting applied grip force from skin deformation using active acoustic sensing on a wristband.
+
+During Summer 2025, I was working on PMUTs-based intelligent interface in <a href="https://me.berkeley.edu/laboratories/lin-lab/" style="text-decoration: none;">Lin Lab</a> at <a href="https://www.berkeley.edu/" style="text-decoration: none;">UCBerkeley</a>, under the supervision of <a href="https://lwlin.me.berkeley.edu/" style="text-decoration: none;">Prof. Liwei Lin</a>.
 
 <br>
 <br>
@@ -69,7 +75,7 @@ My research interest includes neural machine translation and computer vision. I 
 <a href="https://me.berkeley.edu/laboratories/lin-lab/" style="text-decoration: none;"><strong>Lin Lab</strong></a>, 
 <a href="https://www.berkeley.edu/" style="text-decoration: none;"><strong>University of California, Berkeley</strong></a>
 <p> Supervisor: <a href="https://lwlin.me.berkeley.edu/" style="text-decoration: none;"><strong>Prof. Liwei Lin</strong></a> </p>
-<p> Research Topic: Piezoelectric Micromachined Ultrasonic Transducers (PMUTs) </p>
+<p> Research Topic: <strong>Piezoelectric Micromachined Ultrasonic Transducers (PMUTs)</strong> </p>
 <p> <i>2025.05 - 2025.09</i> </p>
 </div>
 </div>
@@ -85,7 +91,7 @@ My research interest includes neural machine translation and computer vision. I 
 <a href="https://www.scifilab.org/" style="text-decoration: none;"><strong>SciFi Lab</strong></a>, 
 <a href="https://www.cornell.edu/" style="text-decoration: none;"><strong>Cornell University</strong></a>
 <p> Supervisor: <a href="https://czhang.org/" style="text-decoration: none;"><strong>Prof. Cheng Zhang</strong></a> </p>
-<p> Research Topic: Ultrasonic Sensing, Active Acoustic Sensing </p>
+<p> Research Topic: <strong>Ultrasonic Sensing, Active Acoustic Sensing</strong></p>
 <p> <i>2025.01 - 2025.06</i> </p>
 </div>
 </div>
@@ -101,7 +107,7 @@ My research interest includes neural machine translation and computer vision. I 
 <a href="https://www.sic.tsinghua.edu.cn/en/" style="text-decoration: none;"><strong>School of Integrated Circuit</strong></a>, 
 <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;"><strong>Tsinghua University</strong></a>
 <p> Supervisor: <a href="https://www.sic.tsinghua.edu.cn/en/info/1078/1373.htm" style="text-decoration: none;"><strong>Prof. Tianling Ren</strong></a> </p>
-<p> Research Topic: Silent Speech Interfaces, Haptics </p>
+<p> Research Topic: <strong>Silent Speech Interfaces, Haptics</strong></p>
 <p> <i>2024.01 - 2024.11</i> </p>
 </div>
 </div>
@@ -126,14 +132,14 @@ My research interest includes neural machine translation and computer vision. I 
   <div class='paper-box-text' markdown="1">
 
   <!-- <a href="https://objnerf.github.io" style="text-decoration: none;"><strong>Obj-NeRF: Extracting Object NeRFs from Multi-view Images</strong></a> -->
-  <a href="docs/PMUTButton_MEMS_20251020.pdf"  style="text-decoration: none;"><strong>AN ACOUSTIC TOUCH-MOTION BUTTON WITH HAPTIC FUNCTION VIA AN IN-SITU FABRICATED ELASTOMERIC LENS ATOP PMUTS</strong></a>
+  <a href="files/PMUTButton_MEMS_20251020.pdf"  style="text-decoration: none;"><strong>AN ACOUSTIC TOUCH-MOTION BUTTON WITH HAPTIC FUNCTION VIA AN IN-SITU FABRICATED ELASTOMERIC LENS ATOP PMUTS</strong></a>
 
   <p> Declan Fitzgerald*, <strong>Yudong Xie*</strong>, Sean Isomatsu, Nikita Lukhanin, Zihan Wang, Liwei Lin </p>
   <!-- <p> <i> arXiv </i> </p> -->
 
   <p><i>The 39th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2026)</i></p>
 
-  <a href="docs/PMUTButton_MEMS_20251020.pdf"> <strong>Abstract</strong> </a>
+  <a href="files/PMUTButton_MEMS_20251020.pdf"> <strong>Abstract</strong> </a>
   <!-- <a href="https://objnerf.github.io" ><strong>Project</strong></a>,  -->
   <!-- <a href="https://arxiv.org/abs/2311.15291" ><strong>Paper</strong></a>,  -->
   <!-- <a href=""><strong>Code</strong></a>,  -->
