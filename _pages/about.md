@@ -186,7 +186,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 
   <div class='paper-box-image'>
     <div>
-      <div class="badge">In submission</div>
+      <div class="badge">In Submission</div>
       <img src='images/publications/SilentSpeech_Arxiv_20250920.png' alt="sym" width="100%">
     </div>
   </div>
