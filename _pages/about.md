@@ -21,6 +21,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+<br>
+<br>
+
 
 # 📖 Educations
 <div class="education-box"> 
@@ -36,6 +39,9 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<br>
+<br>
+
 <div class="education-box"> 
 <div class="education-box-image">
 <img src="images/logo/Cornell_logo.png" alt="sym" width="100%">
@@ -48,6 +54,9 @@ My research interest includes neural machine translation and computer vision. I 
 <p> <i>Ithaca, New York, United States</i> </p>
 </div>
 </div>
+
+<br>
+<br>
 
 
 # 💻 Research Experiences
@@ -65,6 +74,9 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<br>
+<br>
+
 <div class="education-box"> 
 <div class="education-box-image">
 <img src="images/logo/Cornell_logo.png" alt="sym" width="100%">
@@ -77,6 +89,9 @@ My research interest includes neural machine translation and computer vision. I 
 <p> <i>2025.01 - 2025.06</i> </p>
 </div>
 </div>
+
+<br>
+<br>
 
 <div class="education-box"> 
 <div class="education-box-image">
@@ -111,7 +126,7 @@ My research interest includes neural machine translation and computer vision. I 
   <div class='paper-box-text' markdown="1">
 
   <!-- <a href="https://objnerf.github.io" style="text-decoration: none;"><strong>Obj-NeRF: Extracting Object NeRFs from Multi-view Images</strong></a> -->
-  <p> <strong>AN ACOUSTIC TOUCH-MOTION BUTTON WITH HAPTIC FUNCTION VIA AN IN-SITU FABRICATED ELASTOMERIC LENS ATOP PMUTS</strong></p>
+  <a href="docs/PMUTButton_MEMS_20251020.pdf"  style="text-decoration: none;"><strong>AN ACOUSTIC TOUCH-MOTION BUTTON WITH HAPTIC FUNCTION VIA AN IN-SITU FABRICATED ELASTOMERIC LENS ATOP PMUTS</strong></a>
 
   <p> Declan Fitzgerald*, <strong>Yudong Xie*</strong>, Sean Isomatsu, Nikita Lukhanin, Zihan Wang, Liwei Lin </p>
   <!-- <p> <i> arXiv </i> </p> -->
@@ -150,7 +165,7 @@ My research interest includes neural machine translation and computer vision. I 
   <p>Kian Mahmoodi*, <strong>Yudong Xie*</strong>, Tan Gemicioglu*, Chi-Jung Lee, Jiwan Kim, Cheng Zhang</p>
   <p><i>In Proceedings of the 2025 ACM International Symposium on Wearable Computers (ISWC ’25)</i></p>
 
-  <a href="https://dl.acm.org/doi/10.1145/3715071.3750405"><strong>Paper</strong></a>
+  <a href="https://dl.acm.org/doi/pdf/10.1145/3715071.3750405"><strong>Paper</strong></a>
   <!-- <a href="../sources/paper_iwcmc/codes.zip" download><strong>Code</strong></a>,  -->
   <!-- <a href="../sources/paper_iwcmc/slides.pdf" download><strong>Slides</strong></a>,  -->
   <!-- <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:4uNrrGSRwJgJ:scholar.google.com/&output=citation&scisdr=ClFyCqlnEM2dlci8V2k:AFWwaeYAAAAAZWK6T2nnKfpSbHf8SzuCl9ZIghU&scisig=AFWwaeYAAAAAZWK6T12eM1unCqehCl_RtPFF6Qc&scisf=4&ct=citation&cd=-1&hl=en"><strong>BibTex</strong></a>  -->
@@ -168,12 +183,12 @@ My research interest includes neural machine translation and computer vision. I 
   </div>
 
   <div class='paper-box-text' markdown="1">
-  <a href="https://dl.acm.org/doi/10.1145/3715071.3750405"  style="text-decoration: none;"><strong>Silent Speech Sentence Recognition with Six-Axis Accelerometers using Conformer and CTC Algorithm</strong></a>
+  <a href="https://doi.org/10.48550/arXiv.2502.17829"  style="text-decoration: none;"><strong>Silent Speech Sentence Recognition with Six-Axis Accelerometers using Conformer and CTC Algorithm</strong></a>
 
   <p><strong>Yudong Xie</strong>, Zhifeng Han, Qinfan Xiao, Liwei Liang, Luqi Tao, Tianling Ren</p>
   <!-- <p><i>In Proceedings of the 2025 ACM International Symposium on Wearable Computers (ISWC ’25)</i></p> -->
 
-  <a href="https://doi.org/10.48550/arXiv.2502.17829"><strong>Preprint</strong></a>
+  <a href="https://arxiv.org/pdf/2502.17829"><strong>Preprint</strong></a>
 
   </div>
 </div>
