@@ -216,6 +216,15 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 - *2024.10* &nbsp; Tsinghua Alumni Zhihua Integrated Circuit Scholarship (~$1400)
 - *2023.10* &nbsp; National Scholarship (~$1400)
 
+<br>
+
+# 📑 CV
+
+<div style="text-align: center; margin: 30px 0;">
+    <a href="/files/CV.pdf" download class="btn" style="background: #00369f; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">
+        📥 Download My CV (PDF)
+    </a>
+</div>
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
