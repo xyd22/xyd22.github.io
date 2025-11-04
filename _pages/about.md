@@ -19,11 +19,11 @@ redirect_from:
 
 Hello and welcome! I am Yudong Xie, an undergraduate student in <a href="https://www.ee.tsinghua.edu.cn/en/" style="text-decoration: none;">Department of Electronic Engineering</a>, <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;">Tsinghua University</a>.
 
-My research focuses on **human-machine interface** and **wearable electronic devices**. Specifically, I am interested in designing integrated sensing systems for both biomedical applications and intellectual interactions with machines. By integrating advanced technologies, such as micro-electromechanical systems (MEMS), microfabrication, and machine learning, I aspire to explore new possibilities that can change human life, healthcare, and entertainment.
+My research interests include **human-machine interface** and **wearable electronic devices**. Specifically, I am interested in designing integrated sensing systems for both biomedical applications and intellectual interactions with machines. By integrating advanced technologies, such as micro-electromechanical systems (MEMS), microfabrication, and machine learning, I aspire to explore new possibilities that can change human life, healthcare, and entertainment.
 
-Starting from my sophomore year, I worked with <a href="https://www.sic.tsinghua.edu.cn/en/info/1078/1373.htm" style="text-decoration: none;">Prof. Tianling Ren</a> at <a href="https://www.sic.tsinghua.edu.cn/en/" style="text-decoration: none;">School of Integrated Circuit</a>, <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;">Tsinghua University</a>. My research focused on developing novel modalities for silent speech interfaces (SSI).
+Starting from my sophomore year, I have worked under the supervision of <a href="https://www.sic.tsinghua.edu.cn/en/info/1078/1373.htm" style="text-decoration: none;">Prof. Tianling Ren</a> at <a href="https://www.sic.tsinghua.edu.cn/en/" style="text-decoration: none;">School of Integrated Circuit</a>, <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;">Tsinghua University</a>. My research focused on developing novel modalities for silent speech interfaces (SSI).
 
-During Spring 2025, I have had an exchange semester at <a href="https://www.cornell.edu/" style="text-decoration: none;">Cornell University</a>, where I join <a href="https://www.scifilab.org/" style="text-decoration: none;">SciFi Lab</a> supervised by <a href="https://czhang.org/" style="text-decoration: none;">Prof. Cheng Zhang</a>. My research focused on predicting applied grip force from skin deformation using active acoustic sensing on a wristband.
+During Spring 2025, I have had an exchange semester at <a href="https://www.cornell.edu/" style="text-decoration: none;">Cornell University</a>, where I join <a href="https://www.scifilab.org/" style="text-decoration: none;">SciFi Lab</a> supervised by <a href="https://czhang.org/" style="text-decoration: none;">Prof. Cheng Zhang</a>. Our research focused on predicting applied grip force from skin deformation using active acoustic sensing on a wristband.
 
 During Summer 2025, I was working on PMUTs-based intelligent interface in <a href="https://me.berkeley.edu/laboratories/lin-lab/" style="text-decoration: none;">Lin Lab</a> at <a href="https://www.berkeley.edu/" style="text-decoration: none;">UCBerkeley</a>, under the supervision of <a href="https://lwlin.me.berkeley.edu/" style="text-decoration: none;">Prof. Liwei Lin</a>.
 
@@ -135,7 +135,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
   <a href="files/PMUTButton_MEMS_20251020.pdf"  style="text-decoration: none;"><strong>AN ACOUSTIC TOUCH-MOTION BUTTON WITH HAPTIC FUNCTION VIA AN IN-SITU FABRICATED ELASTOMERIC LENS ATOP PMUTS</strong></a>
 
   <p> Declan Fitzgerald*, <strong>Yudong Xie*</strong>, Sean Isomatsu, Nikita Lukhanin, Zihan Wang, Liwei Lin </p>
-  <!-- <p> <i> arXiv </i> </p> -->
+  <p> *<i>Co-first Authors</i> <p>
 
   <p><i>The 39th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2026)</i></p>
 
@@ -169,6 +169,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
   <a href="https://dl.acm.org/doi/10.1145/3715071.3750405"  style="text-decoration: none;"><strong>EchoForce: Continuous Grip Force Estimation from Skin Deformation Using Active Acoustic Sensing on a Wristband</strong></a>
 
   <p>Kian Mahmoodi*, <strong>Yudong Xie*</strong>, Tan Gemicioglu*, Chi-Jung Lee, Jiwan Kim, Cheng Zhang</p>
+  <p> *<i>Co-first Authors</i> <p>
   <p><i>In Proceedings of the 2025 ACM International Symposium on Wearable Computers (ISWC ’25)</i></p>
 
   <a href="https://dl.acm.org/doi/pdf/10.1145/3715071.3750405"><strong>Paper</strong></a>
