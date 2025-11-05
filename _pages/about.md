@@ -241,10 +241,21 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 <br>
 
 # 🎖 Honors and Awards
+
+## Scholarships
 - *2025.10* &nbsp; "December 9th" Scholarship <i>(Top 2% in Tsinghua)</i> (~$2800)
 - *2024.10* &nbsp; National Scholarship (~$1400)
 - *2024.10* &nbsp; Tsinghua Alumni Zhihua Integrated Circuit Scholarship (~$1400)
 - *2023.10* &nbsp; National Scholarship (~$1400)
+## Awards
+- *2024.02* &nbsp; Meritorious Winner of 2024 Mathematical Contest in Modeling
+- *2023.12* &nbsp; First Prize in The 39th National Regional College Student Physics Competition
+- *2023.09* &nbsp; Champion of 2023 Ricoh Hackathon (Beijing, Tianjin and Hebei) (~$4000)
+## Sports
+- *2024.05* &nbsp; Champion of 2024 Beijing College Students Volleyball League (Division B)
+- *2024.04* &nbsp; Champion of 2024 Tsinghua University John Mo Cup (Men’s Volleyball)
+- *2023.04* &nbsp; Second place of 2023 Tsinghua University John Mo Cup (Men’s Volleyball)
+
 
 <br>
 
@@ -262,3 +273,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+<div>
+<p><i>Last Updated: Nov. 5, 2025</i></p>
+</div>
