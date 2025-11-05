@@ -74,7 +74,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 <img src="images/logo/Berkeley_logo.png" alt="sym" width="100%">
 </div>
 <div class="education-box-text" markdown="1">
-<a href="https://me.berkeley.edu/laboratories/lin-lab/" style="text-decoration: none;"><strong>Lin Lab</strong></a>, 
+<a href="https://linlab.me.berkeley.edu/" style="text-decoration: none;"><strong>Lin Lab</strong></a>, 
 <a href="https://www.berkeley.edu/" style="text-decoration: none;"><strong>University of California, Berkeley</strong></a>
 <p> Supervisor: <a href="https://lwlin.me.berkeley.edu/" style="text-decoration: none;"><strong>Prof. Liwei Lin</strong></a> </p>
 <p> Research Topic: <strong>Piezoelectric Micromachined Ultrasonic Transducers (PMUTs)</strong> </p>
@@ -198,6 +198,16 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
   <!-- <p><i>In Proceedings of the 2025 ACM International Symposium on Wearable Computers (ISWC ’25)</i></p> -->
 
   <a href="https://arxiv.org/pdf/2502.17829"><strong>Preprint</strong></a>
+
+  <details class="abstract-details">
+    <summary class="abstract-summary">
+      <span class="triangle">▶</span>
+      <span class="summary-text">Abstract</span>
+    </summary>
+    <div class="abstract-content">
+      Silent speech interfaces (SSI) are being actively developed to assist individuals with communication impairments who have long suffered from a reduced quality of life. However, silent sentences are difficult to segment and recognize due to elision and linking. A novel silent speech sentence recognition method is proposed to convert the facial motion signals collected by six-axis accelerometers into transcribed words and sentences. A Conformer-based neural network with the Connectionist-Temporal-Classification algorithm gains contextual understanding and translates the non-acoustic signals into words sequences. Test results show that the proposed method achieves a 97.17% accuracy in sentence recognition, surpassing the existing silent speech recognition methods with a typical accuracy of 85%-95%, and demonstrating the potential of accelerometers as an available SSI modality for high-accuracy silent speech sentence recognition.
+    </div>
+  </details>
 
   </div>
 </div>
