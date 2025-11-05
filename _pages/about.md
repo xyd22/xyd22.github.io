@@ -155,6 +155,16 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 
   <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+  <details class="abstract-details">
+    <summary class="abstract-summary">
+      <span class="triangle">▶</span>
+      <span class="summary-text">Brief Introduction</span>
+    </summary>
+    <div class="abstract-content">
+      Here we present an integrated manufacturing process and implementation of a variable acoustic touch motion button with haptic function via in-situ fabricated elastomeric lens atop piezoelectric micromachined ultrasonic transducers (PMUTs). Three distinctive features have been achieved as compared to the state-of-art: (1) direct integration of an elastomeric lens with an acoustic pressure focus point of larger than 3000 Pa for enhanced haptic feedback sensation; (2) pressure-sensitive recognitions with variable levels for touch motions; and (3) ML (machine learning)-based regression with adaptive bidirectional interface for high sensing accuracy. As such, this work represents a new class of human-machine interface with scalable ultrasonic MEMS hardware and intelligent software for touch-sensation applications in hand-held device buttons, including cell phones.
+    </div>
+  </details>
+
   </div>
 </div>
 
@@ -178,6 +188,16 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
   <!-- <a href="../sources/paper_iwcmc/codes.zip" download><strong>Code</strong></a>,  -->
   <!-- <a href="../sources/paper_iwcmc/slides.pdf" download><strong>Slides</strong></a>,  -->
   <!-- <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:4uNrrGSRwJgJ:scholar.google.com/&output=citation&scisdr=ClFyCqlnEM2dlci8V2k:AFWwaeYAAAAAZWK6T2nnKfpSbHf8SzuCl9ZIghU&scisig=AFWwaeYAAAAAZWK6T12eM1unCqehCl_RtPFF6Qc&scisf=4&ct=citation&cd=-1&hl=en"><strong>BibTex</strong></a>  -->
+
+  <details class="abstract-details">
+    <summary class="abstract-summary">
+      <span class="triangle">▶</span>
+      <span class="summary-text">Abstract</span>
+    </summary>
+    <div class="abstract-content">
+      Grip force is commonly used as an overall health indicator in older adults and is valuable for tracking progress in physical training and rehabilitation. Existing methods for wearable grip force measurement are cumbersome and user-dependent, making them insufficient for practical, continuous grip force measurement. We introduce EchoForce, a novel wristband using acoustic sensing for low-cost, non-contact measurement of grip force. EchoForce captures acoustic signals reflected from subtle skin deformations by f lexor muscles on the forearm. In a user study with 11 participants, EchoForce achieved a fine-tuned user-dependent mean error rate of 9.08% and a user-independent mean error rate of 12.3% using a foundation model. Our system remained accurate between sessions, hand orientations, and users, overcoming a significant limitation of past force sensing systems. EchoForce makes continuous grip force measurement practical, providing an effective tool for health monitoring and novel interaction techniques.
+    </div>
+  </details>
 
   </div>
 </div>
