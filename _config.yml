@@ -23,7 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yudong Xie"
   avatar           : "images/profile.png"
-  bio              : "Department of EE, Tsinghua University"
+  bio              : >
+    Electronic Engineering,
+    Tsinghua University
   location         : "Beijing, China"
   employer         :
   pubmed           : 

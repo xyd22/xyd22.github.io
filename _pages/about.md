@@ -77,7 +77,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 <a href="https://linlab.me.berkeley.edu/" style="text-decoration: none;"><strong>Lin Lab</strong></a>, 
 <a href="https://www.berkeley.edu/" style="text-decoration: none;"><strong>University of California, Berkeley</strong></a>
 <p> Supervisor: <a href="https://lwlin.me.berkeley.edu/" style="text-decoration: none;"><strong>Prof. Liwei Lin</strong></a> </p>
-<p> Research Topic: <strong>Piezoelectric Micromachined Ultrasonic Transducers (PMUTs)</strong> </p>
+<p> Research Topics: <strong>Piezoelectric Micromachined Ultrasonic Transducers (PMUTs)</strong> </p>
 <p> <i>2025.05 - 2025.09</i> </p>
 </div>
 </div>
@@ -93,7 +93,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 <a href="https://www.scifilab.org/" style="text-decoration: none;"><strong>SciFi Lab</strong></a>, 
 <a href="https://www.cornell.edu/" style="text-decoration: none;"><strong>Cornell University</strong></a>
 <p> Supervisor: <a href="https://czhang.org/" style="text-decoration: none;"><strong>Prof. Cheng Zhang</strong></a> </p>
-<p> Research Topic: <strong>Ultrasonic Sensing, Active Acoustic Sensing</strong></p>
+<p> Research Topics: <strong>Ultrasonic Sensing, Active Acoustic Sensing</strong></p>
 <p> <i>2025.01 - 2025.06</i> </p>
 </div>
 </div>
@@ -109,7 +109,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 <a href="https://www.sic.tsinghua.edu.cn/en/" style="text-decoration: none;"><strong>School of Integrated Circuit</strong></a>, 
 <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;"><strong>Tsinghua University</strong></a>
 <p> Supervisor: <a href="https://www.sic.tsinghua.edu.cn/en/info/1078/1373.htm" style="text-decoration: none;"><strong>Prof. Tianling Ren</strong></a> </p>
-<p> Research Topic: <strong>Silent Speech Interfaces, Haptics</strong></p>
+<p> Research Topics: <strong>Silent Speech Interfaces, Haptics</strong></p>
 <p> <i>2024.01 - 2024.11</i> </p>
 </div>
 </div>
