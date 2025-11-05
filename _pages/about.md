@@ -67,7 +67,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 <br>
 
 
-# 💻 Research Experiences
+# 🔬 Research Experiences
 
 <div class="education-box"> 
 <div class="education-box-image">
@@ -117,9 +117,6 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 <br>
 <br>
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
 <div class='paper-box'>
@@ -168,6 +165,8 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
   </div>
 </div>
 
+<br>
+
 <div class='paper-box'> 
 
   <div class='paper-box-image'>
@@ -201,6 +200,8 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 
   </div>
 </div>
+
+<br>
 
 <div class='paper-box'> 
 
@@ -239,24 +240,27 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 - <strong>Zhiyi Li</strong>, Jida Zhang, Jieao Zhu, Linglong Dai, <a href="https://arxiv.org/abs/2310.15901" style="text-decoration: none;">Enhancing Energy Efficiency for Reconfigurable Intelligent Surfaces with Practical Power Models</a>, <i>arXiv preprint arXiv:2310.15901</i> (2023).  -->
 
 <br>
+<br>
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 
 ## Scholarships
 - *2025.10* &nbsp; "December 9th" Scholarship <i>(Top 2% in Tsinghua)</i> (~$2800)
 - *2024.10* &nbsp; National Scholarship (~$1400)
 - *2024.10* &nbsp; Tsinghua Alumni Zhihua Integrated Circuit Scholarship (~$1400)
 - *2023.10* &nbsp; National Scholarship (~$1400)
+
 ## Awards
 - *2024.02* &nbsp; Meritorious Winner of 2024 Mathematical Contest in Modeling
 - *2023.12* &nbsp; First Prize in The 39th National Regional College Student Physics Competition
 - *2023.09* &nbsp; Champion of 2023 Ricoh Hackathon (Beijing, Tianjin and Hebei) (~$4000)
+
 ## Sports
 - *2024.05* &nbsp; Champion of 2024 Beijing College Students Volleyball League (Division B)
 - *2024.04* &nbsp; Champion of 2024 Tsinghua University John Mo Cup (Men’s Volleyball)
 - *2023.04* &nbsp; Second place of 2023 Tsinghua University John Mo Cup (Men’s Volleyball)
 
-
+<br>
 <br>
 
 # 📑 CV
@@ -273,6 +277,10 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+<!-- # 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <div>
 <p><i>Last Updated: Nov. 5, 2025</i></p>
