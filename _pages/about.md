@@ -110,7 +110,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;"><strong>Tsinghua University</strong></a>
 <p> Supervisor: <a href="https://www.sic.tsinghua.edu.cn/en/info/1078/1373.htm" style="text-decoration: none;"><strong>Prof. Tianling Ren</strong></a> </p>
 <p> Research Topics: <strong>Silent Speech Interfaces, Haptics</strong></p>
-<p> <i>2024.01 - 2024.11</i> </p>
+<p> <i>2023.09 - 2024.11</i> </p>
 </div>
 </div>
 
@@ -246,9 +246,9 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 
 ## Scholarships
 - *2025.10* &nbsp; "December 9th" Scholarship <i>(Top 2% in Tsinghua)</i> (~$2800)
-- *2024.10* &nbsp; National Scholarship (~$1400)
+- *2024.10* &nbsp; National Scholarship <i>(9/263)</i> (~$1400)
 - *2024.10* &nbsp; Tsinghua Alumni Zhihua Integrated Circuit Scholarship (~$1400)
-- *2023.10* &nbsp; National Scholarship (~$1400)
+- *2023.10* &nbsp; National Scholarship <i>(4/261)</i> (~$1400)
 
 ## Awards
 - *2024.02* &nbsp; Meritorious Winner of 2024 Mathematical Contest in Modeling
@@ -283,5 +283,5 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <div>
-<p><i>Last Updated: Nov. 5, 2025</i></p>
+<p><i>Last Updated: Nov. 6, 2025</i></p>
 </div>
