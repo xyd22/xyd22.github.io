@@ -171,7 +171,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ISWC '25</div>
+      <div class="badge">ISWC 2025</div>
       <img src='images/publications/Echoforce_ISWC_20250717.png' alt="sym" width="100%">
     </div>
   </div>
@@ -181,7 +181,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 
   <p>Kian Mahmoodi*, <strong>Yudong Xie*</strong>, Tan Gemicioglu*, Chi-Jung Lee, Jiwan Kim, Cheng Zhang</p>
   <p> *<i>Co-first Authors</i> </p>
-  <p><i>In Proceedings of the 2025 ACM International Symposium on Wearable Computers (ISWC ’25)</i></p>
+  <p><i>In Proceedings of the 2025 ACM International Symposium on Wearable Computers (ISWC 2025)</i></p>
 
   <a href="https://dl.acm.org/doi/pdf/10.1145/3715071.3750405"><strong>Paper</strong></a>
   <!-- <a href="../sources/paper_iwcmc/codes.zip" download><strong>Code</strong></a>,  -->
