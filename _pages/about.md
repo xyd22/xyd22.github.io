@@ -131,14 +131,14 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
   <div class='paper-box-text' markdown="1">
 
   <!-- <a href="https://objnerf.github.io" style="text-decoration: none;"><strong>Obj-NeRF: Extracting Object NeRFs from Multi-view Images</strong></a> -->
-  <a href="files/PMUTButton_MEMS_20251020.pdf"  style="text-decoration: none;"><strong>AN ACOUSTIC TOUCH-MOTION BUTTON WITH HAPTIC FUNCTION VIA AN IN-SITU FABRICATED ELASTOMERIC LENS ATOP PMUTS</strong></a>
+  <a href="files/PMUTButton.pdf"  style="text-decoration: none;"><strong>AN ACOUSTIC TOUCH-MOTION BUTTON WITH HAPTIC FUNCTION VIA AN IN-SITU FABRICATED ELASTOMERIC LENS ATOP PMUTS</strong></a>
 
   <p> Declan Fitzgerald*, <strong>Yudong Xie*</strong>, Sean Isomatsu, Nikita Lukhanin, Zihan Wang, Liwei Lin </p>
   <p> *<i>Co-first Authors</i> </p>
 
   <p><i>The 39th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2026)</i></p>
 
-  <a href="files/PMUTButton_MEMS_20251020.pdf"> <strong>Abstract</strong> </a>
+  <a href="files/PMUTButton.pdf"> <strong>Paper</strong> </a>
   <!-- <a href="https://objnerf.github.io" ><strong>Project</strong></a>,  -->
   <!-- <a href="https://arxiv.org/abs/2311.15291" ><strong>Paper</strong></a>,  -->
   <!-- <a href=""><strong>Code</strong></a>,  -->
@@ -155,10 +155,10 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
   <details class="abstract-details">
     <summary class="abstract-summary">
       <span class="triangle">▶</span>
-      <span class="summary-text">Brief Introduction</span>
+      <span class="summary-text">Abstract</span>
     </summary>
     <div class="abstract-content">
-      Here we present an integrated manufacturing process and implementation of a variable acoustic touch motion button with haptic function via in-situ fabricated elastomeric lens atop piezoelectric micromachined ultrasonic transducers (PMUTs). Three distinctive features have been achieved as compared to the state-of-art: (1) direct integration of an elastomeric lens with an acoustic pressure focus point of larger than 3000 Pa for enhanced haptic feedback sensation; (2) pressure-sensitive recognitions with variable levels for touch motions; and (3) ML (machine learning)-based regression with adaptive bidirectional interface for high sensing accuracy. As such, this work represents a new class of human-machine interface with scalable ultrasonic MEMS hardware and intelligent software for touch-sensation applications in hand-held device buttons, including cell phones.
+      Ultrasonic smart-button interfaces have emerged as a promising direction for next-generation human-machine interaction, offering compact, highly accurate, and multi-modal sensing. Existing ultrasonic interfaces typically require additional strain sensors for interpreting intent, limiting single-device functionality. Additionally, they lack integrated actuation mechanisms capable of producing the high acoustic pressures required for haptic stimulation. To demonstrate the bidirectional communication ability of ultrasonic interfaces, here we present an integrated manufacturing process and implementation of a variable acoustic touch motion button with haptic function via in-situ fabricated elastomeric lens atop piezoelectric micromachined ultrasonic transducers (PMUTs). Three distinctive features have been achieved as compared to the state-of-the-art: (1) direct integration of an elastomeric lens with an acoustic pressure focus point of larger than 3000 Pa for enhanced haptic feedback sensation; (2) pressure-sensitive recognitions with variable levels for touch motions; and (3) ML (machine learning)-based regression with adaptive bidirectional interface for high sensing accuracy. This integration provides a unified hardware-software package where the same PMUT platform supports simultaneous sensing, actuation, and data-driven interpretation of user intent. As such, this work represents a new class of human-machine interface with scalable ultrasonic MEMS hardware and intelligent software for touch-sensation applications in handheld device buttons, including cell phones.
     </div>
   </details>
 
@@ -283,5 +283,5 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <div>
-<p><i>Last Updated: Nov. 6, 2025</i></p>
+<p><i>Last Updated: Nov. 18, 2025</i></p>
 </div>
