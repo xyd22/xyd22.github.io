@@ -283,5 +283,5 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <div>
-<p><i>Last Updated: Nov. 18, 2025</i></p>
+<p><i>Last Updated: Nov. 19, 2025</i></p>
 </div>
