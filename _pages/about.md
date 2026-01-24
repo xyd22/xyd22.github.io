@@ -138,7 +138,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 
   <p><i>The 39th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2026)</i></p>
 
-  <a href="files/PMUTButton.pdf"> <strong>Paper</strong> </a>
+  <a href="files/PMUTButton.pdf"> <strong>PDF</strong> </a>
   <!-- <a href="https://objnerf.github.io" ><strong>Project</strong></a>,  -->
   <!-- <a href="https://arxiv.org/abs/2311.15291" ><strong>Paper</strong></a>,  -->
   <!-- <a href=""><strong>Code</strong></a>,  -->
@@ -183,7 +183,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
   <p> *<i>Co-first Authors</i> </p>
   <p><i>In Proceedings of the 2025 ACM International Symposium on Wearable Computers (ISWC 2025)</i></p>
 
-  <a href="https://dl.acm.org/doi/pdf/10.1145/3715071.3750405"><strong>Paper</strong></a>
+  <a href="https://dl.acm.org/doi/pdf/10.1145/3715071.3750405"><strong>PDF</strong></a>
   <!-- <a href="../sources/paper_iwcmc/codes.zip" download><strong>Code</strong></a>,  -->
   <!-- <a href="../sources/paper_iwcmc/slides.pdf" download><strong>Slides</strong></a>,  -->
   <!-- <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:4uNrrGSRwJgJ:scholar.google.com/&output=citation&scisdr=ClFyCqlnEM2dlci8V2k:AFWwaeYAAAAAZWK6T2nnKfpSbHf8SzuCl9ZIghU&scisig=AFWwaeYAAAAAZWK6T12eM1unCqehCl_RtPFF6Qc&scisf=4&ct=citation&cd=-1&hl=en"><strong>BibTex</strong></a>  -->
@@ -207,7 +207,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 
   <div class='paper-box-image'>
     <div>
-      <div class="badge">In Submission</div>
+      <div class="badge">ICASSP 2026</div>
       <img src='images/publications/SilentSpeech_Arxiv_20250920.png' alt="sym" width="100%">
     </div>
   </div>
@@ -216,9 +216,9 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
   <a href="https://doi.org/10.48550/arXiv.2502.17829"  style="text-decoration: none;"><strong>Silent Speech Sentence Recognition with Six-Axis Accelerometers using Conformer and CTC Algorithm</strong></a>
 
   <p><strong>Yudong Xie</strong>, Zhifeng Han, Qinfan Xiao, Liwei Liang, Luqi Tao, Tianling Ren</p>
-  <!-- <p><i>In Proceedings of the 2025 ACM International Symposium on Wearable Computers (ISWC ’25)</i></p> -->
+  <p><i>2026 IEEE International Conference on Acoustics, Speech, and Signal Processin (ICASSP 2026)</i></p>
 
-  <a href="https://arxiv.org/pdf/2502.17829"><strong>Preprint</strong></a>
+  <a href="https://arxiv.org/pdf/2502.17829"><strong>PDF</strong></a>
 
   <details class="abstract-details">
     <summary class="abstract-summary">
@@ -283,5 +283,5 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <div>
-<p><i>Last Updated: Nov. 24, 2025</i></p>
+<p><i>Last Updated: Jan. 24, 2026</i></p>
 </div>
