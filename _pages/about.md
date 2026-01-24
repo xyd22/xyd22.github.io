@@ -119,6 +119,39 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 
 
 # 📝 Publications 
+
+<div class='paper-box'> 
+
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICASSP 2026</div>
+      <img src='images/publications/SilentSpeech_Arxiv_20250920.png' alt="sym" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+  <a href="https://doi.org/10.48550/arXiv.2502.17829"  style="text-decoration: none;"><strong>Silent Speech Sentence Recognition with Six-Axis Accelerometers using Conformer and CTC Algorithm</strong></a>
+
+  <p><strong>Yudong Xie</strong>, Zhifeng Han, Qinfan Xiao, Liwei Liang, Luqi Tao, Tianling Ren</p>
+  <p><i>2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)</i></p>
+
+  <a href="https://arxiv.org/pdf/2502.17829"><strong>PDF</strong></a>
+
+  <details class="abstract-details">
+    <summary class="abstract-summary">
+      <span class="triangle">▶</span>
+      <span class="summary-text">Abstract</span>
+    </summary>
+    <div class="abstract-content">
+      Silent speech interfaces (SSI) are being actively developed to assist individuals with communication impairments who have long suffered from a reduced quality of life. However, silent sentences are difficult to segment and recognize due to elision and linking. A novel silent speech sentence recognition method is proposed to convert the facial motion signals collected by six-axis accelerometers into transcribed words and sentences. A Conformer-based neural network with the Connectionist-Temporal-Classification algorithm gains contextual understanding and translates the non-acoustic signals into words sequences. Test results show that the proposed method achieves a 97.17% accuracy in sentence recognition, surpassing the existing silent speech recognition methods with a typical accuracy of 85%-95%, and demonstrating the potential of accelerometers as an available SSI modality for high-accuracy silent speech sentence recognition.
+    </div>
+  </details>
+
+  </div>
+</div>
+
+<br>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -201,37 +234,6 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
   </div>
 </div>
 
-<br>
-
-<div class='paper-box'> 
-
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">ICASSP 2026</div>
-      <img src='images/publications/SilentSpeech_Arxiv_20250920.png' alt="sym" width="100%">
-    </div>
-  </div>
-
-  <div class='paper-box-text' markdown="1">
-  <a href="https://doi.org/10.48550/arXiv.2502.17829"  style="text-decoration: none;"><strong>Silent Speech Sentence Recognition with Six-Axis Accelerometers using Conformer and CTC Algorithm</strong></a>
-
-  <p><strong>Yudong Xie</strong>, Zhifeng Han, Qinfan Xiao, Liwei Liang, Luqi Tao, Tianling Ren</p>
-  <p><i>2026 IEEE International Conference on Acoustics, Speech, and Signal Processin (ICASSP 2026)</i></p>
-
-  <a href="https://arxiv.org/pdf/2502.17829"><strong>PDF</strong></a>
-
-  <details class="abstract-details">
-    <summary class="abstract-summary">
-      <span class="triangle">▶</span>
-      <span class="summary-text">Abstract</span>
-    </summary>
-    <div class="abstract-content">
-      Silent speech interfaces (SSI) are being actively developed to assist individuals with communication impairments who have long suffered from a reduced quality of life. However, silent sentences are difficult to segment and recognize due to elision and linking. A novel silent speech sentence recognition method is proposed to convert the facial motion signals collected by six-axis accelerometers into transcribed words and sentences. A Conformer-based neural network with the Connectionist-Temporal-Classification algorithm gains contextual understanding and translates the non-acoustic signals into words sequences. Test results show that the proposed method achieves a 97.17% accuracy in sentence recognition, surpassing the existing silent speech recognition methods with a typical accuracy of 85%-95%, and demonstrating the potential of accelerometers as an available SSI modality for high-accuracy silent speech sentence recognition.
-    </div>
-  </details>
-
-  </div>
-</div>
 
 <!-- - Jida Zhang, <strong>Zhiyi Li</strong>, Zijian Zhang, <a href="https://ieeexplore.ieee.org/abstract/document/10122216/" style="text-decoration: none;">Wideband Active RISs: Architecture, Modeling, and Beamforming Design</a>, <i>IEEE Communications Letters</i>, vol. 27, pp. 1899-1903, Sep. 2023. 
 
