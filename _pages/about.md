@@ -164,14 +164,14 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
   <div class='paper-box-text' markdown="1">
 
   <!-- <a href="https://objnerf.github.io" style="text-decoration: none;"><strong>Obj-NeRF: Extracting Object NeRFs from Multi-view Images</strong></a> -->
-  <a href="files/PMUTButton.pdf"  style="text-decoration: none;"><strong>AN ACOUSTIC TOUCH-MOTION BUTTON WITH HAPTIC FUNCTION VIA AN IN-SITU FABRICATED ELASTOMERIC LENS ATOP PMUTS</strong></a>
+  <a href="https://ieeexplore.ieee.org/document/11419575"  style="text-decoration: none;"><strong>AN ACOUSTIC TOUCH-MOTION BUTTON WITH HAPTIC FUNCTION VIA AN IN-SITU FABRICATED ELASTOMERIC LENS ATOP PMUTS</strong></a>
 
   <p> Declan Fitzgerald*, <strong>Yudong Xie*</strong>, Sean Isomatsu, Nikita Lukhanin, Zihan Wang, Liwei Lin </p>
   <p> *<i>Co-first Authors</i> </p>
 
   <p><i>The 39th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2026)</i></p>
 
-  <a href="files/PMUTButton.pdf"> <strong>PDF</strong> </a>
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11419575"> <strong>PDF</strong> </a>
   <!-- <a href="https://objnerf.github.io" ><strong>Project</strong></a>,  -->
   <!-- <a href="https://arxiv.org/abs/2311.15291" ><strong>Paper</strong></a>,  -->
   <!-- <a href=""><strong>Code</strong></a>,  -->
@@ -285,5 +285,5 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <div>
-<p><i>Last Updated: Jan. 24, 2026</i></p>
+<p><i>Last Updated: Mar. 19, 2026</i></p>
 </div>
