@@ -27,7 +27,7 @@ My research interests include **human-machine interface** and **wearable electro
 
 <!-- Starting from my sophomore year, I have worked under the supervision of <a href="https://www.sic.tsinghua.edu.cn/en/info/1078/1373.htm" style="text-decoration: none;">Prof. Tianling Ren</a> at <a href="https://www.sic.tsinghua.edu.cn/en/" style="text-decoration: none;">School of Integrated Circuit</a>, <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;">Tsinghua University</a>. My research focused on developing novel modalities for silent speech interfaces (SSI). -->
 
-Starting from my sophomore year, I have worked under the supervision of <a href="https://www.sic.tsinghua.edu.cn/en/info/1078/1373.htm" style="text-decoration: none;">Prof. Tianling Ren</a> at <a href="https://www.sic.tsinghua.edu.cn/en/" style="text-decoration: none;">School of Information Science and Technology</a>, <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;">Tsinghua University</a>. My research focused on developing novel modalities for silent speech interfaces (SSI).
+Starting from my sophomore year, I have worked under the supervision of <a href="https://www.sic.tsinghua.edu.cn/en/info/1078/1373.htm" style="text-decoration: none;">Prof. Tianling Ren</a> at <a href="https://www.sist.tsinghua.edu.cn/" style="text-decoration: none;">School of Information Science and Technology</a>, <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;">Tsinghua University</a>. My research focused on developing novel modalities for silent speech interfaces (SSI).
 
 During Spring 2025, I have had an exchange semester at <a href="https://www.cornell.edu/" style="text-decoration: none;">Cornell University</a>, where I join <a href="https://www.scifilab.org/" style="text-decoration: none;">SciFi Lab</a> supervised by <a href="https://czhang.org/" style="text-decoration: none;">Prof. Cheng Zhang</a>. Our research focused on predicting applied grip force from skin deformation using active acoustic sensing on a wristband.
 
@@ -272,7 +272,7 @@ During Summer 2025, I was working on PMUTs-based interface in <a href="https://m
 # 📑 CV
 
 <div style="text-align: center; margin: 30px 0;">
-    <a href="/files/CV_XYD_Visa.pdf" download class="btn" style="background: #00369f; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">
+    <a href="/files/CV_XYD.pdf" download class="btn" style="background: #00369f; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">
         📥 Download My CV (PDF)
     </a>
 </div>
