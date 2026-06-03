@@ -21,13 +21,17 @@ redirect_from:
 
 Hello and welcome! I am Yudong Xie, an undergraduate student in <a href="https://www.ee.tsinghua.edu.cn/en/" style="text-decoration: none;">Department of Electronic Engineering</a>, <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;">Tsinghua University</a>.
 
-My research interests include **human-machine interface** and **wearable electronic devices**. Specifically, I am interested in designing integrated sensing systems for both biomedical applications and intellectual interactions with machines. By integrating advanced technologies, such as micro-electromechanical systems (MEMS), microfabrication, and machine learning, I aspire to explore new possibilities that can change human life, healthcare, and entertainment.
+<!-- My research interests include **human-machine interface** and **wearable electronic devices**. Specifically, I am interested in designing integrated sensing systems for both biomedical applications and intellectual interactions with machines. By integrating advanced technologies, such as micro-electromechanical systems (MEMS), microfabrication, and machine learning, I aspire to explore new possibilities that can change human life, healthcare, and entertainment. -->
 
-Starting from my sophomore year, I have worked under the supervision of <a href="https://www.sic.tsinghua.edu.cn/en/info/1078/1373.htm" style="text-decoration: none;">Prof. Tianling Ren</a> at <a href="https://www.sic.tsinghua.edu.cn/en/" style="text-decoration: none;">School of Integrated Circuit</a>, <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;">Tsinghua University</a>. My research focused on developing novel modalities for silent speech interfaces (SSI).
+My research interests include **human-machine interface** and **wearable electronic devices**. Specifically, I am interested in designing sensing systems for both biomedical applications and interactions with machines. By using advanced technologies, such as micro-electromechanical systems (MEMS) and microfabrication, I aspire to explore new possibilities that can change human life, healthcare, and entertainment.
+
+<!-- Starting from my sophomore year, I have worked under the supervision of <a href="https://www.sic.tsinghua.edu.cn/en/info/1078/1373.htm" style="text-decoration: none;">Prof. Tianling Ren</a> at <a href="https://www.sic.tsinghua.edu.cn/en/" style="text-decoration: none;">School of Integrated Circuit</a>, <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;">Tsinghua University</a>. My research focused on developing novel modalities for silent speech interfaces (SSI). -->
+
+Starting from my sophomore year, I have worked under the supervision of <a href="https://www.sic.tsinghua.edu.cn/en/info/1078/1373.htm" style="text-decoration: none;">Prof. Tianling Ren</a> at <a href="https://www.sic.tsinghua.edu.cn/en/" style="text-decoration: none;">School of Information Science and Technology</a>, <a href="https://www.tsinghua.edu.cn/en/" style="text-decoration: none;">Tsinghua University</a>. My research focused on developing novel modalities for silent speech interfaces (SSI).
 
 During Spring 2025, I have had an exchange semester at <a href="https://www.cornell.edu/" style="text-decoration: none;">Cornell University</a>, where I join <a href="https://www.scifilab.org/" style="text-decoration: none;">SciFi Lab</a> supervised by <a href="https://czhang.org/" style="text-decoration: none;">Prof. Cheng Zhang</a>. Our research focused on predicting applied grip force from skin deformation using active acoustic sensing on a wristband.
 
-During Summer 2025, I was working on PMUTs-based intelligent interface in <a href="https://me.berkeley.edu/laboratories/lin-lab/" style="text-decoration: none;">Lin Lab</a> at <a href="https://www.berkeley.edu/" style="text-decoration: none;">UCBerkeley</a>, under the supervision of <a href="https://lwlin.me.berkeley.edu/" style="text-decoration: none;">Prof. Liwei Lin</a>.
+During Summer 2025, I was working on PMUTs-based interface in <a href="https://me.berkeley.edu/laboratories/lin-lab/" style="text-decoration: none;">Lin Lab</a> at <a href="https://www.berkeley.edu/" style="text-decoration: none;">UCBerkeley</a>, under the supervision of <a href="https://lwlin.me.berkeley.edu/" style="text-decoration: none;">Prof. Liwei Lin</a>.
 
 <br>
 <br>
@@ -130,12 +134,12 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
   </div>
 
   <div class='paper-box-text' markdown="1">
-  <a href="https://doi.org/10.48550/arXiv.2502.17829"  style="text-decoration: none;"><strong>Silent Speech Sentence Recognition with Six-Axis Accelerometers using Conformer and CTC Algorithm</strong></a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/11462945"  style="text-decoration: none;"><strong>Silent Speech Sentence Recognition with Six-Axis Accelerometers using Conformer and CTC Algorithm</strong></a>
 
   <p><strong>Yudong Xie</strong>, Zhifeng Han, Qinfan Xiao, Liwei Liang, Luqi Tao, Tianling Ren</p>
   <p><i>2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)</i></p>
 
-  <a href="https://arxiv.org/pdf/2502.17829"><strong>PDF</strong></a>
+  <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11462945"><strong>PDF</strong></a>
 
   <details class="abstract-details">
     <summary class="abstract-summary">
@@ -227,7 +231,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
       <span class="summary-text">Abstract</span>
     </summary>
     <div class="abstract-content">
-      Grip force is commonly used as an overall health indicator in older adults and is valuable for tracking progress in physical training and rehabilitation. Existing methods for wearable grip force measurement are cumbersome and user-dependent, making them insufficient for practical, continuous grip force measurement. We introduce EchoForce, a novel wristband using acoustic sensing for low-cost, non-contact measurement of grip force. EchoForce captures acoustic signals reflected from subtle skin deformations by f lexor muscles on the forearm. In a user study with 11 participants, EchoForce achieved a fine-tuned user-dependent mean error rate of 9.08% and a user-independent mean error rate of 12.3% using a foundation model. Our system remained accurate between sessions, hand orientations, and users, overcoming a significant limitation of past force sensing systems. EchoForce makes continuous grip force measurement practical, providing an effective tool for health monitoring and novel interaction techniques.
+      Grip force is commonly used as an overall health indicator in older adults and is valuable for tracking progress in physical training and rehabilitation. Existing methods for wearable grip force measurement are cumbersome and user-dependent, making them insufficient for practical, continuous grip force measurement. We introduce EchoForce, a novel wristband using acoustic sensing for low-cost, non-contact measurement of grip force. EchoForce captures acoustic signals reflected from subtle skin deformations by flexor muscles on the forearm. In a user study with 11 participants, EchoForce achieved a fine-tuned user-dependent mean error rate of 9.08% and a user-independent mean error rate of 12.3% using a foundation model. Our system remained accurate between sessions, hand orientations, and users, overcoming a significant limitation of past force sensing systems. EchoForce makes continuous grip force measurement practical, providing an effective tool for health monitoring and novel interaction techniques.
     </div>
   </details>
 
@@ -268,7 +272,7 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 # 📑 CV
 
 <div style="text-align: center; margin: 30px 0;">
-    <a href="/files/CV.pdf" download class="btn" style="background: #00369f; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">
+    <a href="/files/CV_XYD_Visa.pdf" download class="btn" style="background: #00369f; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">
         📥 Download My CV (PDF)
     </a>
 </div>
@@ -285,5 +289,6 @@ During Summer 2025, I was working on PMUTs-based intelligent interface in <a hre
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <div>
-<p><i>Last Updated: Mar. 19, 2026</i></p>
+<p><i>Last Updated: Mar. 19
+, 2026</i></p>
 </div>
